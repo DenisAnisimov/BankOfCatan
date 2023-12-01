@@ -1,6 +1,6 @@
 # BankOfCatan
 
-A program for creating and printing game bank cards used when using The Bankers of Catan extension in the Catan game.
+A program for creating and printing game bank cards used when using The Bankers of Catan (Katani pankur) extension in the Catan game.
 
 ![Screenshot](/screenshot1.png)
 
